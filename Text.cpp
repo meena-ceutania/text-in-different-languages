@@ -1,1 +1,4 @@
-string greeting = "Text";
+#include <iostream>
+int main () {
+    std::cout << "text";
+}
