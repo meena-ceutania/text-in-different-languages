@@ -1,0 +1,3 @@
+(begin
+    (display "text")
+    (newline))
